@@ -5,7 +5,8 @@
 
 ## Integrantes del equipo
 
-[Nombres, apellidos, y usuario GitHub de los integrantes del equipo.]
+[Nombres, apellidos, y usuario GitHub de los integrantes del equipo.] 
+
 Mario Sánchez Trigo @mariosanchezt
 Javier Romo Gil
 Javier Valdés González
