@@ -9,8 +9,10 @@
 
 Mario Sánchez Trigo @mariosanchezt
 Javier Romo Gil
-Javier Valdés González
+Javier Valdés González @javivaldees
 
 ## Objetivos del trabajo
 
 [Lista de los objetivos que se persiguen con el trabajo propuesto.]
+- Facilitar la vida del dueño del animal.
+- Asegurar la correcta alimentación de dicho animal.
