@@ -7,9 +7,9 @@
 
 [Nombres, apellidos, y usuario GitHub de los integrantes del equipo.] 
 
-Mario Sánchez Trigo @mariosanchezt
-Javier Romo Gil
-Javier Valdés González @javivaldees
+- Mario Sánchez Trigo @mariosanchezt
+- Javier Romo Gil
+- Javier Valdés González @javivaldees
 
 ## Objetivos del trabajo
 
