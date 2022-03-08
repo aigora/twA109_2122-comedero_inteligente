@@ -5,7 +5,6 @@ Este proyecto trata de crear un comedero inteligente que distribuya la comida en
 
 ## Integrantes del equipo
 
-[Nombres, apellidos, y usuario GitHub de los integrantes del equipo.] 
 
 - Mario Sánchez Trigo @mariosanchezt
 - Javier Romo Gil @Romoj21
