@@ -30,17 +30,17 @@ Desde la aplicación del Pc introduciremos el peso y la raza del perro así como
 ## ESQUEMA MENÚ
 
 TALLA DE PERRO
-. Elección tamaño perro
-. Se recomienda una dosis diaria en función de raza y peso.
+- Elección tamaño perro
+- Se recomienda una dosis diaria en función de raza y peso.
 
 CANTIDAD COMIDA
-. Cambiar cantidad (El usuario puede cambiar la cantidad de comida)
+- Cambiar cantidad (El usuario puede cambiar la cantidad de comida)
 
 HORARIO COMIDA
-. El sistema ofrece 3 opciones de horarios. (El usuario escoge el que más le convenga)
+- El sistema ofrece 3 opciones de horarios. (El usuario escoge el que más le convenga)
 
 ALMACÉN DE AGUA/COMIDA
-. Aviso para rellenar. (Emitirá un pitido cuando este vacio)
+- Aviso para rellenar. (Emitirá un pitido cuando este vacio)
 
 
  
