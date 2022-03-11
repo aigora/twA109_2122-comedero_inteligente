@@ -34,10 +34,10 @@ TALLA DE PERRO
 - Se recomienda una dosis diaria en función de raza y peso.
 
 CANTIDAD COMIDA
-- Cambiar cantidad (El usuario puede cambiar la cantidad de comida)
+- Introducir cantidad (El usuario introduce la cantidad de comida)
 
 HORARIO COMIDA
-- El sistema ofrece 3 opciones de horarios. (El usuario escoge el que más le convenga)
+- El sistema ofrece 2 opciones y 2 subopciones de horarios. (El usuario escoge la que más le convenga)
 
 ALMACÉN DE AGUA/COMIDA
 - Aviso para rellenar. (Emitirá un pitido cuando este vacio)
