@@ -16,3 +16,16 @@ Este proyecto trata de crear un comedero inteligente que distribuya la comida en
 
 - Facilitar la vida del dueño del animal.
 - Asegurar la correcta alimentación de dicho animal.
+
+## Descripción detallada
+
+- El usuario se encontrará un comedero inteligente que le permitirá establecer horarios de comida a su gusto, también deberá asignar la raza del perro, para que el programa, le recomiende la comida acorde a su raza y peso.  
+
+El sistema incorporará un sensor ubicado en el interior del recipiente de la comida. Su función será la de comprobar si el recipiente de la comida  está lleno o vacío. Sí cuando sea la hora de comer se detecta que el recipiente sigue lleno, no se servirá más comida. Sí el recipiente está vacío en el horario de comida, se servirá hasta volver a llenarse.
+Sin embargo, el recipiente del agua se rellenará automáticamente a cualquier hora del día, siempre que esté vacío. El propio sistema avisará al usuario de cuándo debe rellenar los almacenes de comida y agua. 
+
+- Las magnitudes físicas que el sistema medirá son la ausencia de comida y agua.
+
+- Desde la aplicación del Pc introduciremos el peso y la raza del perro así como los horarios de comida para este.
+
+ 
