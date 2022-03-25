@@ -42,5 +42,7 @@ HORARIO COMIDA
 ALMACÉN DE AGUA/COMIDA
 - Aviso para rellenar. (Emitirá un pitido cuando este vacio)
 
+## Identificación sensores, actuadores e indicadores
+
 
  
