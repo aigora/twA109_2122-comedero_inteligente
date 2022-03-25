@@ -44,7 +44,7 @@ ALMACÉN DE AGUA/COMIDA
 
 ## Identificación sensores, actuadores e indicadores
 
-- Sensor de presion MF01  x2
+- Sensor de presion  Rp-c7.6-lt  x2
 - Placa base de arduino elego uno R3
 - Sensor de nivel de liquido sin contacto gravity  
 - HC-SR04 (Sensor de ultrasonidos) 
